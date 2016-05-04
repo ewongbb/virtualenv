@@ -40,5 +40,6 @@ notifications:
   irc:
     channels:
       - "chat.freenode.net##sm-releng"
+      - "irc.mozilla.org#sm-releng"
     use_notice: true
     skip_join: false 
