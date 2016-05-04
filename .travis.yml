@@ -39,6 +39,6 @@ branches:
 notifications:
   irc:
     channels:
-      - "chat.freenode.net#sm-releng"
+      - "chat.freenode.net##sm-releng"
     use_notice: true
     skip_join: false 
