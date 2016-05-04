@@ -39,6 +39,6 @@ branches:
 notifications:
   irc:
     channels:
-      - "irc.mozilla.org#sm-releng"
+      - "irc.mozilla.org#smreleng"
     use_notice: true
     skip_join: true
